@@ -1,0 +1,28 @@
+List icon = [
+  "asset/image/atm-icon.png",
+  "asset/image/bank-icon.png",
+  "asset/image/airpots-icon.png",
+  "asset/image/gyms-icon.png",
+  "asset/image/hotels-icon.png",
+  "asset/image/hospitals-icon.png",
+  "asset/image/bars-icon.png",
+  "asset/image/resturants-icon.png",
+  "asset/image/museums-icon.png",
+  "asset/image/pharmacies-icon.png",
+  "asset/image/petrol-pump-icon.png",
+  "asset/image/theatre-icon.png",
+];
+List text = [
+  "ATM",
+  "Bank",
+  "Airpots",
+  "Gyms",
+  "Hotels",
+  "Hospitals",
+  "Bars",
+  "Restaurants",
+  "Museums",
+  "Pharmacies",
+  "Petrol Pump",
+  "Theatre",
+];
